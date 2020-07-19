@@ -1,0 +1,33 @@
+apiVersion: v1
+entries:
+  alerta:
+  - apiVersion: v1
+    appVersion: 6.0.0
+    created: "2020-07-19T15:06:28.022609+03:00"
+    description: A Helm chart for Kubernetes
+    digest: f0a3a944e45ef87eef2b7baa4c6ad9a19205cc21fd175fdcb4cfefe6376a8b86
+    name: alerta
+    urls:
+    - alerta-0.1.0.tgz
+    version: 0.1.0
+  credentials:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2020-07-19T15:06:28.024854+03:00"
+    description: Creds for k8s
+    digest: c2b8ccf586d37f4e2b86093d8e922d2fc227005c937e9877ffb1e0997f4e61eb
+    name: credentials
+    urls:
+    - credentials-1.0.0.tgz
+    version: 1.0.0
+  kubernetes-zerotier-bridge:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-07-19T15:06:28.02579+03:00"
+    description: Kubernetes Zerotier Bridge
+    digest: cd5a855b74894d7b265e2816648ed75658708be53c06daffba317284157fc087
+    name: kubernetes-zerotier-bridge
+    urls:
+    - kubernetes-zerotier-bridge-0.1.2.tgz
+    version: 0.1.2
+generated: "2020-07-19T15:06:28.021585+03:00"
